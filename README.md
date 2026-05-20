@@ -20,3 +20,5 @@ KEY FEATURES:
 
 HOW TO RUN:
  -Click demo on project in Macondo event or go to "https://reaperly.com/Anime%20vote/"
+ -Vote any anime by clicking on vote button and put your name there.
+ -Then your vote will stored in backend and total vote and the anime vote will be increased.
